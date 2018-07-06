@@ -10,8 +10,7 @@ github_username:  githubusername
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/
 google_analytics: UA-0000000-1
-disqus_shortname: disqusshortname
 highlighter: rouge
 
-gems:
+plugins:
   - jekyll-sitemap
