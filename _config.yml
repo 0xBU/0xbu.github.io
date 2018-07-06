@@ -1,14 +1,15 @@
 # Site settings
-title: Your blog title
-description: Your blog description
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://0xbu.github.io" # the base hostname & protocol for your site
-twitter_username: twitterusername
-github_username:  githubusername
+title: 0xBU
+description: Boston University CTF Team
+baseurl: ""
+url: "https://0xbu.github.io"
+twitter_username: 0xbu
+github_username:  0xbu
 
 # Build settings
+remote_theme: daattali/beautiful-jekyll
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:title/
 google_analytics: UA-0000000-1
 highlighter: rouge
 
