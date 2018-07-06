@@ -1,0 +1,57 @@
+---
+layout: post
+title: 5 Steps to Get Started Hacking and CTFing
+date: '2016-09-14 06:08:51'
+---
+
+## 1. Install and Learn Linux
+Linux is a hackable, and convenient operating system. The internals of it are
+very interesting, and the foundation for a lot of engineering. But, they don't
+concern you much right now. You just have to be able to navigate around in it,
+install programs, and run programs. A virtual machine is easiest.
+
+```
+# Absolute basics
+ls - list directory contents
+cd [path] - change directory to [path]
+pwd - print working (current) directory
+man [command- pull up the manual for [command]
+cat [filename] - print [filename] contents
+mv [from_filename] [to_filename] - move a file
+cp [from_filename] [to_filename] - copy a file
+rm [filename] - remove a file
+nano [filename] - open a file for editting
+```
+
+## 2. Learn Python and C
+My advice is to learn the syntax, and then go further in depth by actually programming with it. Some books are fairly decent too.
+
+#### Syntax
+https://learnxinyminutes.com/docs/python3/  
+https://learnxinyminutes.com/docs/c/
+
+#### Language
+https://automatetheboringstuff.com/chapter0/
+
+## 3. Learn some basics, and the landscape
+There's a collection of great CTF videos here: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/videos.
+Each of them is ~5-10 minutes. Additionally, it's very interesting and useful to read write-ups of previous CTF challenges. They give you the mindset, and teach you the skills necessary, here's a basic set: https://ehsandev.com/pico2014/
+
+## 4. Collect some tools
+Security is a very tool oriented field. It's a good idea to know what tools are
+out there, and make some of them part of your arsenal.
+
+#### CTF oriented
+https://github.com/isislab?page=1
+https://github.com/Gallopsled/pwntools
+
+### General security oriented
+https://github.com/eugenekolo/sec-tools
+https://github.com/eugenekolo/win-sec-tools
+https://github.com/zardus/ctf-tools
+
+## 5. Follow what interests you
+Whether it's: [game hacking](https://www.youtube.com/watch?v=hABj_mrP-no), web security, [competing in CTF competitions](https://www.youtube.com/watch?v=V6hhlvbMFlY),
+cryptography,  reverse engineering, or [whatever](https://www.youtube.com/watch?v=U4oB28ksiIo) that interests you, it's up to
+you to continue learning about it.
+

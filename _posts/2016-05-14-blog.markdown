@@ -1,0 +1,11 @@
+---
+layout: post
+title: Blog
+date: '2016-05-14 03:57:46'
+---
+
+# **DO NOT TOUCH.**
+# **DO NOT TOUCH.**
+# **DO NOT TOUCH.**
+
+This is handled by post-blog.hbs on the server. To add blog post entries, simply make a new post, and it will be added under blog. 
