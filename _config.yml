@@ -1,13 +1,12 @@
 # Site settings
-title: 0xBU
+title: 0xbu
 description: Boston University CTF Team
-baseurl: ""
 url: "https://0xbu.github.io"
 twitter_username: 0xbu
 github_username:  0xbu
 
 # Build settings
-remote_theme: daattali/beautiful-jekyll
+#remote_theme: liungkejin/liungkejin.github.io
 markdown: kramdown
 permalink: /blog/:title/
 google_analytics: UA-0000000-1

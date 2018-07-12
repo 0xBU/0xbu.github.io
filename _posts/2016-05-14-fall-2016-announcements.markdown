@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_layout
 title: Fall 2016 Announcements
 date: '2016-05-14 04:52:42'
 ---

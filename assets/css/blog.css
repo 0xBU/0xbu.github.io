@@ -1,0 +1,382 @@
+
+.blogbody {
+}
+
+/* Header */
+.bloghead {
+    position: relative;
+    font-weight: 200;
+    color: #333;
+    text-align: left;;
+    max-width: 650px;
+    width: 90%;
+    margin: 30px auto;
+}
+
+
+.blogtitle {
+  font-weight: 400;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  /*font-size: 18px;*/
+  font-family: courier;
+  display: inline-block;
+}
+
+.blogtitle h1 {
+    margin-top: 10px;
+}
+
+.bloghead p {
+    font-weight: 400;
+}
+
+.bloghead img , .authorimage img{
+    height: 85px;
+    padding: 10px;
+    vertical-align: top;
+    margin-right: 10px;
+}
+
+
+
+nav {
+  border-bottom: 1px solid #ecf0f1;
+  border-top: 1px solid #ecf0f1;
+  margin-bottom: 2em;
+  text-align: center;
+  max-width: 650px;
+  /*margin: 20px auto 2em auto;*/
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  margin: 0;
+  padding: 0 .5em;
+  text-align: center;
+  /*text-transform: uppercase;*/
+}
+
+nav ul li a {
+  display: block;
+  padding: .5em 0;
+}
+
+nav.menu {
+  margin-bottom: 2.5em;
+}
+
+nav.menu li {
+  margin: 0 .5em;
+  padding: 0;
+}
+
+nav.menu li:last-child {
+  margin: 0;
+}
+
+
+.blogmain {
+    max-width: 650px;
+    width: 90%;
+    margin: 20px auto;
+    font-family: "Roboto Slab", "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+    font-size: 15px;
+    line-height: 1.8em;
+}
+
+article.preview {
+    margin-bottom: 4em;
+}
+
+.post-title {
+    text-align: left;
+}
+
+.post-section {
+    font-size: 15px;
+}
+
+.post-time {
+    font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: left;
+    margin-bottom: 1em;
+}
+
+p.readmore {
+    margin-top: 1em;
+    text-align: right;
+}
+
+blockquote {
+     font-size: 13px;
+ }
+
+.article-title {
+    text-align: center;
+}
+
+.article-time {
+    font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.article-hint {
+    font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom-width: 1px;
+    border-bottom-style: inset;
+}
+
+.article-footer {
+    background-color: transparent;
+    background-image: none;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-size: auto auto;
+    /*
+    border-top: 1px solid #ecf0f1;*/
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(236, 240, 241);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+section.author, section.share {
+    width: 100%;
+    text-align: left;
+    text-transform: none;
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+div.authorimage {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    -webkit-background-size: cover !important;
+    background-size: cover !important;
+    background-position: center center !important;
+    margin-right: 20px;
+    float: left;
+}
+
+.smenu {
+    font-size: 15px;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    /*margin-left: 50px;*/
+}
+
+.authorheader {
+    text-align: left;
+}
+
+
+/* ------------- */
+/* Added by 0xBU */
+/* ------------- */
+/* ============================================================ */
+/* Base */
+/* ============================================================ */
+html, body {
+  height: 100%; }
+
+body {
+  background: #FEFEFE;
+  color: #424242;
+  font-family: "Open Sans", arial, sans-serif;
+  font-size: 18px; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 33px;
+  text-transform: none; }
+
+h1 {
+  font-size: 26px; }
+
+h2 {
+  font-size: 24px; }
+
+h3 {
+  font-size: 20px;
+  margin-bottom: 20px; }
+
+h4 {
+  font-size: 18px;
+  margin-bottom: 18px; }
+
+h5 {
+  font-size: 16px;
+  margin-bottom: 15px; }
+
+h6 {
+  font-size: 14px;
+  margin-bottom: 12px; }
+
+p {+
+  line-height: 1.8;
+  margin: 0 0 30px; }
+
+a {
+  color: #F03838;
+  text-decoration: none; }
+
+ul, ol {
+  list-style-position: outside;
+  line-height: 1.8;
+  margin: 0 0 40px; }
+  ul ul, ul ol, ol ul, ol ol {
+    margin: 10px 0 0 20px; }
+  ul li, ol li {
+    margin: 0 0 10px; }
+    ul li:last-of-type, ol li:last-of-type {
+      margin-bottom: 0; }
+
+ul {
+  padding-left: 20px; }
+
+ol {
+  padding-left: 22px; }
+
+ul ul,
+ol ul {
+  padding-left: 0; }
+
+ul ol,
+ol ol {
+  padding-left: 5px; }
+
+blockquote {
+  border-left: 1px dotted #303030;
+  margin: 40px 0;
+  padding: 5px 30px; }
+  blockquote p {
+    color: #AEADAD;
+    display: block;
+    font-style: italic;
+    margin: 0;
+    width: 100%; }
+
+img {
+  display: block;
+  margin: 40px 0;
+  width: auto;
+  max-width: 100%; }
+
+pre {
+  background: #F1F0EA;
+  border: 1px solid #DDDBCC;
+  border-radius: 3px;
+  margin: 0 0 40px;
+  padding: 15px 20px; }
+
+hr {
+  border: none;
+  border-bottom: 1px dotted #303030;
+  margin: 45px 0; }
+
+table {
+  margin-bottom: 40px;
+  width: 100%; }
+  table tbody > tr:nth-child(odd) > td,
+  table tbody > tr:nth-child(odd) > th {
+    background-color: #f7f7f3; }
+  table th {
+    padding: 0 10px 10px;
+    text-align: left; }
+  table td {
+    padding: 10px; }
+  table tr {
+    border-bottom: 1px dotted #AEADAD; }
+
+::selection {
+  background: #FFF5B8;
+  color: #000;
+  display: block; }
+
+::-moz-selection {
+  background: #FFF5B8;
+  color: #000;
+  display: block; }
+
+.fluid-width-video-wrapper {
+  margin-bottom: 40px; }
+
+.hidden {
+  text-indent: -9999px;
+  visibility: hidden;
+  display: none; }
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both; }
+
+/* Make stuff a little bigger, and the background dark */
+body {
+    font-family: "Open Sans", arial, sans-serif;
+    color: #FEFEFE;
+    background: #424242;
+    font-size: 1.7em;
+}
+
+/* Make headers a little smaller */
+@media (min-width: 550px) {
+    h1 { font-size: 3.6rem; }
+    h2 { font-size: 3.0rem; }
+    h3 { font-size: 2.4rem; }
+    h4 { font-size: 1.8rem; }
+    h5 { font-size: 1.5rem; }
+    h6 { font-size: 1.1rem; }
+}
+
+
+/* Pack item lists tighter */
+ul, ol {
+    line-height: 1.5;
+}
+ul li, ol li {
+  margin: 0 0 5px; 
+}
+
+.nav-current:before {
+    content: "> ";
+}
+
+/* Add an underline under current nav item */
+@media (min-width: 650px) {
+  .nav-current {
+    border-bottom: solid 4px; 
+  }
+  .nav-current:before {
+    content: "";
+  }
+}
+

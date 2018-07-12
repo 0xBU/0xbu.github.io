@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_layout
 title: 5 Steps to Get Started Hacking and CTFing
 date: '2016-09-14 06:08:51'
 ---
