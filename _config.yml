@@ -6,7 +6,6 @@ twitter_username: 0xbu
 github_username:  0xbu
 
 # Build settings
-#remote_theme: liungkejin/liungkejin.github.io
 markdown: kramdown
 permalink: /blog/:title/
 google_analytics: UA-0000000-1

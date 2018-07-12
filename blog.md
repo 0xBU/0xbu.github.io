@@ -8,7 +8,6 @@ layout: blog_layout
         <h2 class="post-title">
             <a href="{{ post.url }}">  {{ post.title }} </a>
         </h2>
-        <p class="post-time"> {{ post.time }}</p>
     </header>
     <section class="post-section">
         <p>
@@ -16,7 +15,7 @@ layout: blog_layout
         </p>
         <p class="readmore">
             <a href="{{ post.url }}">
-                阅读全文
+                Read More
                 <span class="glyphicon glyphicon-circle-arrow-right"></span>
             </a>
         </p>

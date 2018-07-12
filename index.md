@@ -2,7 +2,7 @@
 layout: post_layout
 ---
 
-We are a cyber security club, and <a href="https://ctftime.org/ctf-wtf/">CTF</a> competition team at <a href="https://www.bu.edu">Boston University</a>. 
+0xBU is a cybersecurity club and <a href="https://ctftime.org/ctf-wtf/">CTF</a> competition team at <a href="https://www.bu.edu">Boston University</a>. 
 
 If you're interested in exploring, and learning about the world of cyber security, then please drop by! No security background is necessary to participate, however a willingness to learn is.
 
