@@ -1,6 +1,6 @@
 # 0xbu.github.io
 
-Latest version of the 0xBU website. Migrated from original self hosted Ghost blog. 
+Latest version of the [0xBU](https://0xbu.com) website. Migrated from original self hosted Ghost blog. 
 Feel free to add posts on your hacks in the `_posts/` folder. 
 Feel free to make any styling changes!
 
