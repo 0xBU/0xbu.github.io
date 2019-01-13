@@ -6,7 +6,7 @@ layout: post_layout
 
 If you're interested in exploring, and learning about the world of cyber security, then please drop by! No security background is necessary to participate, however a willingness to learn is.
 
-We meet regularly every **Saturday from 1PM to 3PM in 111 Cummington Mall, Room B26, Boston, MA 02215** (<a href="http://builds.cc">BUILDS</a> room). The best way to know if a meeting will be held is to sign up for our <a href="builds.us14.list-manage.com/subscribe/post?u=48eeff7657509db01b37d0c9b&amp;id=c7c2160530">mailing list</a>.
+We meet regularly every **Saturday from 1PM to 3PM in 111 Cummington Mall, Room B26, Boston, MA 02215** (<a href="http://builds.cc">BUILDS</a> room). The best way to know if a meeting will be held is to sign up for our <a href="https://builds.us14.list-manage.com/subscribe/post?u=48eeff7657509db01b37d0c9b&amp;id=c7c2160530">mailing list</a>.
 
 Our <a href="https://github.com/0xbu/workshops">meetings</a> generally focus around practical workshops involving **binary exploitation** (pwning), **reverse engineering** (cracking), **malware analysis**, **network security**, **web security**, **cryptography**, **digital forensics**, **applied programming**, and previous **CTF challenges**.
 
@@ -27,25 +27,3 @@ If you have any questions, contact Chet Powers at <a href="mailto:ccpowers@bu.ed
 <a href="https://0xbu.slack.com" class="button-primary"><input class="button-primary" type="button" value="#Slack Chat"></a>
 
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-
-<script>
-$("#emailform").submit(function(event) {
-  // Stop form from submitting normally
-  event.preventDefault();
- 
-  // Get some values from elements on the page:
-  var $form = $(this),
-    term = $form.find("input[name='email']").val(),
-    url = $form.attr("action");
- 
-  // Send the data using post
-  var posting = $.post(url, {'email':term}, function(data) {
-  }).error(function() {
-    $(".xalert-error-invis").show();
-  }).success(function() {
-    $(".xalert-success-invis").show();
-  });
-  return false;
-});
-
-</script>
