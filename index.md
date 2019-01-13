@@ -6,7 +6,7 @@ layout: post_layout
 
 If you're interested in exploring, and learning about the world of cyber security, then please drop by! No security background is necessary to participate, however a willingness to learn is.
 
-We meet regularly every **Saturday from 1PM to 3PM in 111 Cummington Mall, Room B26, Boston, MA 02215** (<a href="http://builds.cc">BUILDS</a> room).
+We meet regularly every **Saturday from 1PM to 3PM in 111 Cummington Mall, Room B26, Boston, MA 02215** (<a href="http://builds.cc">BUILDS</a> room). The best way to know if a meeting will be held is to sign up for our <a href="builds.us14.list-manage.com/subscribe/post?u=48eeff7657509db01b37d0c9b&amp;id=c7c2160530">mailing list</a>.
 
 Our <a href="https://github.com/0xbu/workshops">meetings</a> generally focus around practical workshops involving **binary exploitation** (pwning), **reverse engineering** (cracking), **malware analysis**, **network security**, **web security**, **cryptography**, **digital forensics**, **applied programming**, and previous **CTF challenges**.
 
@@ -49,8 +49,3 @@ $("#emailform").submit(function(event) {
 });
 
 </script>
-
-<!-- Begin Calendar -->
-### Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=bu.edu_7n7ld2696rv78u7ha8998ngr64%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>	
-
