@@ -363,3 +363,7 @@ ul li, ol li {
   }
 }
 
+input, select, textarea{
+    color: #000000;
+}
+
