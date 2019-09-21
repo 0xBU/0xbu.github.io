@@ -2,11 +2,13 @@
 layout: post_layout
 ---
 
+0xBU is not currently meeting. If you're interested in 0xBU, let BUILDS know at <a href="mailto:acm@bu.edu">acm@bu.edu</a>, and if you're interested in organizing and running the 0xBU meetings, you can contact me at <a href="mailto:ccpowers@bu.edu">ccpowers@bu.edu</a>
+---
 0xBU is a cybersecurity club and <a href="https://ctftime.org/ctf-wtf/">CTF</a> competition team at <a href="https://www.bu.edu">Boston University</a>. 
 
 If you're interested in exploring, and learning about the world of cyber security, then please drop by! No security background is necessary to participate, however a willingness to learn is.
 
-We meet regularly every **Saturday from 1PM to 3PM in 111 Cummington Mall, Room B26, Boston, MA 02215** (<a href="http://builds.cc">BUILDS</a> room). The best way to know if a meeting will be held is to sign up for our <a href="https://builds.us14.list-manage.com/subscribe/post?u=48eeff7657509db01b37d0c9b&amp;id=c7c2160530">mailing list</a>.
+<!-- We meet regularly every **Saturday from 1PM to 3PM in 111 Cummington Mall, Room B26, Boston, MA 02215** (<a href="http://builds.cc">BUILDS</a> room). The best way to know if a meeting will be held is to sign up for our <a href="https://builds.us14.list-manage.com/subscribe/post?u=48eeff7657509db01b37d0c9b&amp;id=c7c2160530">mailing list</a>. -->
 
 Our <a href="https://github.com/0xbu/workshops">meetings</a> generally focus around practical workshops involving **binary exploitation** (pwning), **reverse engineering** (cracking), **malware analysis**, **network security**, **web security**, **cryptography**, **digital forensics**, **applied programming**, and previous **CTF challenges**.
 
