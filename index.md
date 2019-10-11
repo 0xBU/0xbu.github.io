@@ -2,7 +2,7 @@
 layout: post_layout
 ---
 
-0xBU is not currently meeting. If you're interested in 0xBU, let BUILDS know at <a href="mailto:acm@bu.edu">acm@bu.edu</a>, and if you're interested in organizing and running the 0xBU meetings, you can contact me at <a href="mailto:ccpowers@bu.edu">ccpowers@bu.edu</a>
+0xBU is meeting in BUILDS (MCS B40) every Sunday at Noon! Come check us out!
 ---
 0xBU is a cybersecurity club and <a href="https://ctftime.org/ctf-wtf/">CTF</a> competition team at <a href="https://www.bu.edu">Boston University</a>. 
 
@@ -12,7 +12,7 @@ If you're interested in exploring, and learning about the world of cyber securit
 
 Our <a href="https://github.com/0xbu/workshops">meetings</a> generally focus around practical workshops involving **binary exploitation** (pwning), **reverse engineering** (cracking), **malware analysis**, **network security**, **web security**, **cryptography**, **digital forensics**, **applied programming**, and previous **CTF challenges**.
 
-If you have any questions, contact Chet Powers at <a href="mailto:ccpowers@bu.edu">ccpowers@bu.edu</a>, please include 0xBU in the subject.
+If you have any questions, contact BUILDS at <a href="mailto:acm@bu.edu">acm@bu.edu</a>, please include 0xBU in the subject.
 
 <!-- Begin Mailing List -->
 ### Sign up for the BUILDS mailing list to stay updated

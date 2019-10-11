@@ -10,13 +10,13 @@ Feel free to make any styling changes!
 sudo apt-get install ruby ruby-dev build-essential
 sudo gem install jekyll bundler
 sudo apt-get install zlib1g-dev
-sudo gem install jekyll-sitemap jekyll-paginate jemoji --verbose
+sudo gem install jekyll-sitemap jekyll-paginate jemoji github-pages --verbose
 ```
 
 ### Run locally
 
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
 
 Visit [http://127.0.0.1:4000](http://127.0.0.1:4000) to see the site.
