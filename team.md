@@ -1,7 +1,10 @@
 ---
 layout: post_layout
 title: Team
-date: '2016-05-10 05:08:42'
+date: '2019-11-03 12:50:00'
 ---
 
-* Scotty Fitzgerald
+* Xavier Ruiz <li> <a href="{{https://xav.ie}}">{{Website}}</a></li>
+* Andrew James <li> <a href="{{https://github.io/Rakshaal}}">{{github}}</a></li>
+* Jordan Nichols
+* David Shen
