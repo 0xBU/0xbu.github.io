@@ -4,7 +4,7 @@ title: Team
 date: '2019-11-03 12:50:00'
 ---
 
-* Xavier Ruiz <li> <a href="{{https://xav.ie}}">{{Website}}</a></li>
-* Andrew James <li> <a href="{{https://github.io/Rakshaal}}">{{github}}</a></li>
+* Xavier Ruiz [Website](https://xav.ie)
+* Andrew James [github](https://github.io/Rakshaal)
 * Jordan Nichols
 * David Shen
